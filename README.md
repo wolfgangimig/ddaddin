@@ -13,4 +13,5 @@ DDAddin is a commercial product which is available for download at http://www.wi
 This GitHub repositiory provides documentation and issue tracking for this product.
 
 Best regards
+
 Wolfgang Imig
