@@ -1,5 +1,5 @@
 # DDAddin
-DDAddin allows to drag and drop mails, attachments, etc. from Outlook into HTML5 web pages and other applications.
+Drag and drop mails, attachments, etc. from Outlook into HTML5 web pages and other applications.
 
 Web browsers do not recognize Outlook's special drag and drop data format. That's why mails, attachments, calendar items or notes cannot be dragged from Outlook into a HTML web site.
 
