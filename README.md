@@ -9,7 +9,8 @@ DDAddin not only supports Web browsers. It also helps to transfer items to all o
 
 Outlook 2010 and 2013 on all Windows versions from XP to Windows 10 (Beta) are supported.
 
-DDAddin is a commercial product which is available for download at http://www.wilutions.com/ddaddin/download.html.This GitHub repositiory provides documentation and issue tracking for this product.
+DDAddin is a commercial product which is available for download at http://www.wilutions.com/ddaddin/download.html.
+This GitHub repositiory provides documentation and issue tracking for this product.
 
 Best regards
 Wolfgang Imig
