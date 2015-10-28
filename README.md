@@ -7,7 +7,7 @@ DDAddin converts Outlook's data format into the standard format for file drop op
 
 DDAddin not only supports Web browsers. It also helps to transfer items to all other applications that do not implement Outlook's format - e.g. Java applications.
 
-Outlook 2010 and 2016 on all Windows versions from XP to Windows 10 (Beta) are supported.
+Outlook 2010 to 2016 on all Windows versions from XP to Windows 10 (Beta) are supported.
 
 DDAddin is a commercial product which is available for download at http://www.wilutions.com/ddaddin/download.html.
 This GitHub repositiory provides documentation and issue tracking for this product.
